@@ -1,9 +1,11 @@
 # Trabajo clases 07
 ## Segundo bimestre
 
+
 ## Áreas de las Ciencias de la Computación
 
 ### Trabajo Grupal
+GRUPO 8 : Bryan Dias , Bryan Villa , Jhandry Naula
 
 1. Reunión del grupo
 2. Identificación de fuentes de información
